@@ -1,0 +1,6 @@
+0 Early Shoot Borer
+1 Healthy
+2 Mosaic
+3 RedRot
+4 Rust
+5 Wolly Aphid
